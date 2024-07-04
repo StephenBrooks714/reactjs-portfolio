@@ -14,14 +14,14 @@ function App() {
               </div>
           </section>
           <section className={"row justify-content-center mb-5 pb-2 align-items-center"}>
-              <div className={"col-lg-6 mb-3"}>
+              <div className={"col-lg-6 mb-4"}>
                   <h2 className={"h1 mb-2"}>Ask me about a project</h2>
                   <p className={"lead mb-2"}>
                       I am skilled in front end and backend development. Also experienced with Agile, Jira, and Scrum.
                   </p>
-                  <a href="" className={"btn btn-outline-warning"}>Learn more <i className={"bi bi-arrow-right"}/></a>
+                  <a href="mailto:stephenbrooks714@gmail.com" className={"btn btn-outline-warning mb-2"}>Hire Me For A Project <i className={"bi bi-arrow-right"}/></a>
               </div>
-              <div className={"col-lg-6 mb-3"}>
+              <div className={"col-lg-6 mb-4"}>
                   <img src={"https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Y29kaW5nfGVufDB8fDB8fHww"}
                        className={"img-fluid rounded-circle"}
                        alt="Ask me about a project"/>
@@ -30,9 +30,10 @@ function App() {
           <Cards />
           <section className={"row"}>
               <div className={"col-lg-6"}>
-                  <h3 className={"display-5 mb-2 fw-bold"}>Recent Projects</h3>
+                  <h3 className={"display-5 mb-2 fw-bold"}>Recent Outcomes</h3>
                   <p className={"lead"}>
-                      I am skilled in front end and backend development. Also experienced with Agile, Jira, and Scrum.
+                      I am skilled in front end and backend development. Also experienced with Agile, Jira, and Scrum. I have
+                      used React and Vite to build my most recent projects.
                   </p>
                   <a href="mailto:stephenbrooks714@gmail.com" className={"btn btn-outline-warning"}>Contact Me <i className={"bi bi-arrow-right"}/></a>
               </div>

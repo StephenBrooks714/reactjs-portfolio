@@ -5,15 +5,15 @@ export default function Carousel() {
             <div id="carouselExample" className="carousel slide">
                 <div className="carousel-inner">
                     <div className="carousel-item active">
-                        <img src={"https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png"}
+                        <img src={"https://miro.medium.com/max/1400/1*SNUFXbMYSOArQbA-Iwi-jA.png"}
                              className="d-block w-100" alt="..."/>
                     </div>
                     <div className="carousel-item">
-                        <img src={"https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png"}
+                        <img src={"https://www.elinext.com/wp-content/uploads/2020/05/Web-Design-Development-Advanced-Based-scaled.jpg"}
                              className="d-block w-100" alt="..."/>
                     </div>
                     <div className="carousel-item">
-                        <img src={"https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png"}
+                        <img src={"https://www.theme-junkie.com/wp-content/uploads/sketch-web-design-templates-6.jpeg"}
                              className="d-block w-100" alt="..."/>
                     </div>
                 </div>
