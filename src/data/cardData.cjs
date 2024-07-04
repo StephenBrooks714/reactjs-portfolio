@@ -25,7 +25,7 @@ const data = [
     },
     {
         title: "Language Cards",
-        url: "https://github.com/StephenBrooks714/language_cards",
+        url: "https://github.com/StephenBrooks714/language_cards/assets/142680592/98c5f832-2da6-4a5c-a458-bb8b02ac5033",
         repo: "https://github.com/StephenBrooks714/language_cards",
         desc: "A React application that dynamically shows programming languages and description on hover.",
     },
@@ -36,9 +36,9 @@ const data = [
         desc: "A React web application set up for user login, revealing the user info and a welcome message.",
     },
     {
-        title: "Art Gallery",
-        url: "https://canal-arts.netlify.app/",
-        repo: "https://github.com/StephenBrooks714/canal_art_frontend",
+        title: "Canal Arts",
+        url: "https://canal-arts-9a32f63479b7.herokuapp.com/",
+        repo: "https://github.com/StephenBrooks714/canal-arts-js",
         desc: "A React web application that shows a potential art studio for an organization with data file content.",
     }
 ]
